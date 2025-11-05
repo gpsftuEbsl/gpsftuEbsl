@@ -5,7 +5,9 @@
 - 📫 How to reach me -> here
 - ⚡ Fun fact: 
 > Beginner programmer: “I don’t know why this program won’t run.”
+
 Senior programmer: “I don’t know why this program does run.”
+
 Me: “I’m the former.”
 
 <!---
