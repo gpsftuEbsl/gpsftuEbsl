@@ -5,10 +5,8 @@
 - 📫 How to reach me -> here
 - ⚡ Fun fact: 
 > Beginner programmer: “I don’t know why this program won’t run.”
-
-Senior programmer: “I don’t know why this program does run.”
-
-Me: “I’m the former.”
+> Senior programmer: “I don’t know why this program does run.”
+> Me: “I’m the former.”
 
 <!---
 gpsftuEbsl/gpsftuEbsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
