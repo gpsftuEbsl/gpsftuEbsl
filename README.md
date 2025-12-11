@@ -13,7 +13,9 @@ Hi, I’m @gpsftuEbsl — a developer in progress with a quiet personality and a
 ⚡ Fun Fact:
 
 Beginner programmer: “I don’t know why this program won’t run.”
+
 Senior programmer: “I don’t know why this program does run.”
+
 Me: “I’m the former.”
 
 A little more about me
