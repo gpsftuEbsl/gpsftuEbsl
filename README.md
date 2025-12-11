@@ -1,33 +1,24 @@
-✨ About Me
+## ✨ About Me
 
-Hi, I’m @gpsftuEbsl — a developer in progress with a quiet personality and a very loud curiosity.
+Hi, I’m **@gpsftuEbsl** — a learner with a quiet personality and a curiosity that refuses to stay quiet.
 
-🔭 Interests: C++ and Python
+* 🔭 **Interests:** C++ and Python
+* 🌱 **Currently Learning:** Better software design, algorithmic thinking, and the art of making programs fail less often
+* 👀 **Looking to Collaborate On:** Beginner-friendly or educational projects
+* 📫 **How to Reach Me:** Email (listed in profile)
 
-🌱 Currently Learning: Better software design, algorithmic thinking, and the art of making programs fail less often
+### ⚡ Fun Fact
 
-👀 Looking to Collaborate On: Beginner-friendly or educational projects
+> Beginner programmer: “I don’t know why this program won’t run.”
+> Senior programmer: “I don’t know why this program *does* run.”
+> Me: “I’m the former.”
 
-📫 How to Reach Me: Email (listed in profile)
+---
 
+## ☕️ A Little More About Me
 
-⚡ Fun Fact:
-
-Beginner programmer: “I don’t know why this program won’t run.”
-
-Senior programmer: “I don’t know why this program does run.”
-
-Me: “I’m the former.”
-
-
-☕️ A little more about me
-
-INFJ — yes, the quiet kind.
-
-Interests: the calmest hobbies you can imagine.
-
-Special skills: disappearing for extended periods.
-
-APCS: 43
-
-CPE: 2/7 (first attempt — everyone starts somewhere.)
+* INFJ — yes, the quiet kind.
+* Interests lean toward the calmest hobbies possible(but music also).
+* Special skill: disappearing for long periods of time.
+* **APCS:** 43
+* **CPE:** 2/7 (first attempt — everyone starts somewhere.)
