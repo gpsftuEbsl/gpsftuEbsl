@@ -10,6 +10,7 @@ Hi, I’m @gpsftuEbsl — a developer in progress with a quiet personality and a
 
 📫 How to Reach Me: Email (listed in profile)
 
+
 ⚡ Fun Fact:
 
 Beginner programmer: “I don’t know why this program won’t run.”
@@ -18,7 +19,8 @@ Senior programmer: “I don’t know why this program does run.”
 
 Me: “I’m the former.”
 
-A little more about me
+
+☕️ A little more about me
 
 INFJ — yes, the quiet kind.
 
