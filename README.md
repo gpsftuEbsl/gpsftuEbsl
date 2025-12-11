@@ -9,8 +9,8 @@ Hi, I’m **@gpsftuEbsl** — a learner with a quiet personality and a curiosity
 
 ### ⚡ Fun Fact
 
-> Beginner programmer: “I don’t know why this program won’t run.”
-> Senior programmer: “I don’t know why this program *does* run.”
+> Beginner programmer: “I don’t know why this program won’t run.”\n
+> Senior programmer: “I don’t know why this program *does* run.”\n
 > Me: “I’m the former.”
 
 ---
