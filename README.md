@@ -23,8 +23,4 @@ Hi, I’m **@gpsftuEbsl** — a learner with a quiet personality and a curiosity
 * **APCS:** 43
 * **CPE:** 2/7 (first attempt — everyone starts somewhere.)
 
-[![Terry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpsftuEbsl&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Terry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpsftuEbsl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpsftuEbsl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpsftuEbsl&layout=donut&theme=radical)
