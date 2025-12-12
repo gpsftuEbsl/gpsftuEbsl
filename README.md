@@ -22,3 +22,6 @@ Hi, I’m **@gpsftuEbsl** — a learner with a quiet personality and a curiosity
 * Special skill: disappearing for long periods of time.
 * **APCS:** 43
 * **CPE:** 2/7 (first attempt — everyone starts somewhere.)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpsftuEbsl&layout=compact&hide_progress=false)
+
