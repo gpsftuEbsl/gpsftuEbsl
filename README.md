@@ -23,4 +23,4 @@ Hi, I’m **@gpsftuEbsl** — a learner with a quiet personality and a curiosity
 * **APCS:** 43
 * **CPE:** 2/7 (first attempt — everyone starts somewhere.)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpsftuEbsl&layout=donut&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gpsftuEbsl&theme=radical)
