@@ -1,6 +1,6 @@
 ## ✨ About Me
 
-Hi, I’m **@gpsftuEbsl** — a learner with a quiet personality and a curiosity that refuses to stay quiet.
+Hi, I’m @gpsftuEbsl — an undergraduate student studying Computer Science at NTOU (NTOU CSE).
 
 * 🔭 **Interests:** C++ and Python
 * 🌱 **Currently Learning:** Better software design, algorithmic thinking, and the art of making programs fail less often
