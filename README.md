@@ -1,6 +1,6 @@
 ## ✨ About Me
 
-Hi, I’m @gpsftuEbsl — an undergraduate student studying Computer Science at NTOU (NTOU CSE).
+Hi, I’m @gpsftuEbsl — an undergraduate student studying Computer Science.
 
 * 🔭 **Interests:** C++ and Python
 * 🌱 **Currently Learning:** Better software design, algorithmic thinking, and the art of making programs fail less often
