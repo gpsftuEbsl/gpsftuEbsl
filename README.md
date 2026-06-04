@@ -6,6 +6,7 @@ Hi, I’m Terry — a freshman student studying Computer Science and Engineering
 * 🌱 **Currently Learning:** Better software design, algorithmic thinking, and the art of making programs fail less often
 * 👀 **Looking to Collaborate On:** Beginner-friendly or educational projects
 * 📫 **How to Reach Me:** Email (listed in profile)
+* 🔒 **Private Projects:** 包含基於 LangGraph + FastAPI + n8n 的 AI Agent 跨域競賽專案，以及 VS Code 客製化外掛與進階 Python 工具腳本（目前皆置於私有庫，還在開發中）。
 
 ### ⚡ Fun Fact
 
@@ -23,7 +24,7 @@ Hi, I’m Terry — a freshman student studying Computer Science and Engineering
 專注於 **Tkinter** 與實用功能開發：
 * **[eyes_resting_program](https://github.com/gpsftuEbsl/eyes_resting_program)** - 定時護眼提醒工具，具備置頂視窗邏輯。
 * **[puzzle_game](https://github.com/gpsftuEbsl/puzzle_game)** - tkinter遊戲實踐。
-* **[photo_classify](https://github.com/gpsftuEbsl/photo_classify)** - 圖像分類管理工具。
+* **[photo_classify](https://github.com/gpsftuEbsl/photo_classify)** - 圖像分類管理工具.
 * **[shuzi-keyboard-cracker](https://github.com/gpsftuEbsl/shuzi-keyboard-cracker)** - 跨裝置自動化鍵盤輸入練習。
 
 ### 🎮 遊戲開發 (Game Development)
