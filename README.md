@@ -1,6 +1,6 @@
 ## ✨ About Me
 
-Hi, I’m Terry — an undergraduate student studying Computer Science.
+Hi, I’m Terry — a freshman student studying Computer Science and Engineering at National Taiwan Ocean University.
 
 * 🔭 **Interests:** C++ and Python
 * 🌱 **Currently Learning:** Better software design, algorithmic thinking, and the art of making programs fail less often
@@ -52,7 +52,7 @@ Hi, I’m Terry — an undergraduate student studying Computer Science.
 * INFJ — yes, the quiet kind.
 * Interests lean toward the calmest hobbies possible (but music also).
 * Special skill: disappearing for long periods of time.
-* **APCS:** 43
-* **CPE:** 2/7 (first attempt — everyone starts somewhere.)
+* **APCS:** 4/3
+* **CPE:** 2/7 (second attempt — next goal 3.)
 
 ---
