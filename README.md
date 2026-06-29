@@ -6,19 +6,17 @@ Hi, I’m Terry — a freshman student studying Computer Science and Engineering
 * 🌱 **Currently Learning:** Better software design, algorithmic thinking, and the art of making programs fail less often
 * 👀 **Looking to Collaborate On:** Beginner-friendly or educational projects
 * 📫 **How to Reach Me:** Email (listed in profile)
-* 🔒 **Private Projects:** 包含基於 LangGraph + FastAPI + n8n 的 AI Agent 跨域競賽專案，以及 VS Code 客製化外掛與進階 Python 工具腳本（目前皆置於私有庫，還在開發中）。
-
-### ⚡ Fun Fact
-
-> * Beginner programmer: “I don’t know why this program won’t run.”
-> * Senior programmer: “I don’t know why this program *does* run.”
-> * Me: “I’m the former.”
+* 🔒 Private Projects: 包含跨域競賽的 AI Agent 完整系統（隱藏核心邏輯，請見showcase專案）、ICCAD競賽題目(簡易繞線與AI輔助設計)、以及開發中的 VS Code 客製化外掛等。
 
 ---
 
 ## 🛠️ Portfolio & Tech Stack
 
-這裡是我根據技術類別整理的專案，展示了我從 GUI 工具到系統模擬的開發過程：
+這裡是我根據技術類別整理的專案，展示了我從 AI 應用到系統模擬的開發過程：
+
+### 🤖 AI 應用與後端架構 (AI & Backend Architecture)
+專注於大語言模型整合、系統架構設計與效能優化：
+* **[langgraph_workshop_showcase](https://github.com/gpsftuEbsl/langgraph_workshop_showcase)** - 基於 FastAPI 與 LangGraph 開發的兒童早療 AI 狀態機引擎，結合異步預生成快取機制實現低延遲對話互動。
 
 ### 🐍 Python 桌面應用與工具 (GUI & Utilities)
 專注於 **Tkinter** 與實用功能開發：
