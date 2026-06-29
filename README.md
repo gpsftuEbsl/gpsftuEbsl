@@ -1,6 +1,6 @@
 ## ✨ About Me
 
-Hi, I’m Terry — a freshman student studying Computer Science and Engineering at National Taiwan Ocean University.
+Hi, I’m Terry — studying Computer Science and Engineering at National Taiwan Ocean University.
 
 * 🔭 **Interests:** C++ and Python
 * 🌱 **Currently Learning:** Better software design, algorithmic thinking, and the art of making programs fail less often
