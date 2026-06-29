@@ -6,7 +6,7 @@ Hi, I’m Terry — studying Computer Science and Engineering at National Taiwan
 * 🌱 **Currently Learning:** Better software design, algorithmic thinking, and the art of making programs fail less often
 * 👀 **Looking to Collaborate On:** Beginner-friendly or educational projects
 * 📫 **How to Reach Me:** Email (listed in profile)
-* 🔒 Private Projects: 包含跨域競賽的 AI Agent 完整系統（隱藏核心邏輯，請見showcase專案）、ICCAD競賽題目(簡易繞線與AI輔助設計)、以及開發中的 VS Code 客製化外掛等。
+* 🔒 Private Projects: 包含跨域競賽的 AI Agent 完整系統（隱藏核心邏輯，請見showcase專案）、ICCAD競賽題目(繞線與AI輔助設計)、以及開發中的 VS Code 客製化外掛等。
 
 ---
 
