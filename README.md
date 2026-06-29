@@ -20,7 +20,7 @@ Hi, I’m Terry — studying Computer Science and Engineering at National Taiwan
 
 ### 🐍 Python 桌面應用與工具 (GUI & Utilities)
 專注於 **Tkinter** 與實用功能開發：
-* **[eyes_resting_program](https://github.com/gpsftuEbsl/eyes_resting_program)** - tkinter 定時護眼提醒工具，具備置頂視窗邏輯。
+* **[eyes_resting_program](https://github.com/gpsftuEbsl/eyes_resting_program)** - tkinter 定時護眼提醒工具。
 * **[puzzle_game](https://github.com/gpsftuEbsl/puzzle_game)** - tkinter 遊戲實踐。
 * **[photo_classify](https://github.com/gpsftuEbsl/photo_classify)** - openCV 圖像分類管理工具.
 * **[shuzi-keyboard-cracker](https://github.com/gpsftuEbsl/shuzi-keyboard-cracker)** - 用於破解 Android 裝置上「可連續輸入」且「有數字鍵盤」的密碼的工具程式(僅供修復遺忘之密碼使用)
