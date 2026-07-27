@@ -12,7 +12,14 @@ Hi, I’m Terry — studying Computer Science and Engineering at National Taiwan
 
 ## 🛠️ Portfolio & Tech Stack
 
-這裡是我根據技術類別整理的專案，展示了我從 AI 應用到系統模擬的開發過程：
+這裡是我根據技術類別整理的專案，展示了我包含遊戲、AI應用、系統模擬等的開發過程：
+
+### 🎮 遊戲開發 (Game Development)
+涵蓋 **Python (Pygame)** 與 **Web (HTML/JS)** 的互動作品：
+* **[educational-games-hub點擊直接遊玩](https://gpsftuebsl.github.io/educational-games-hub/)** - 多個教育類小遊戲整合之平台。
+* **[UnderPy](https://github.com/gpsftuEbsl/UnderPy)** - 仿Undertale風格的遊戲(tkinter/pygame雙引擎)開發實作。
+* **[ball-game](https://github.com/gpsftuEbsl/ball-game)** - pygame基礎物理碰撞與動態模擬。
+* **網頁經典復刻系列**: [pac-man](https://github.com/gpsftuEbsl/pac-man), [snake-game](https://github.com/gpsftuEbsl/snake-game), [car-game](https://github.com/gpsftuEbsl/car-game)。
 
 ### 🤖 AI 應用與後端架構 (AI & Backend Architecture)
 專注於大語言模型整合、系統架構設計與效能優化：
@@ -24,13 +31,6 @@ Hi, I’m Terry — studying Computer Science and Engineering at National Taiwan
 * **[puzzle_game](https://github.com/gpsftuEbsl/puzzle_game)** - tkinter 遊戲實踐。
 * **[photo_classify](https://github.com/gpsftuEbsl/photo_classify)** - 圖片自動分類器。
 * **[shuzi-keyboard-cracker](https://github.com/gpsftuEbsl/shuzi-keyboard-cracker)** - 用於破解 Android 裝置上「可連續輸入」且「有數字鍵盤」的密碼的工具程式(僅供修復遺忘之密碼使用)
-
-### 🎮 遊戲開發 (Game Development)
-涵蓋 **Python (Pygame)** 與 **Web (HTML/JS)** 的互動作品：
-* **[educational-games-hub](https://github.com/gpsftuEbsl/educational-games-hub)** - 多個教育類小遊戲整合之平台。
-* **[UnderPy](https://github.com/gpsftuEbsl/UnderPy)** - 仿Undertale風格的遊戲(tkinter/pygame雙引擎)開發實作。
-* **[ball-game](https://github.com/gpsftuEbsl/ball-game)** - pygame基礎物理碰撞與動態模擬。
-* **網頁經典復刻系列**: [pac-man](https://github.com/gpsftuEbsl/pac-man), [snake-game](https://github.com/gpsftuEbsl/snake-game), [car-game](https://github.com/gpsftuEbsl/car-game)。
 
 ### 💻 C++ 系統工具與演算法 (System Tools & Competitive Programming)
 展示底層交互與邏輯思考：
