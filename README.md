@@ -1,25 +1,13 @@
-## ✨ About Me
-
-Hi, I’m Terry — studying Computer Science and Engineering at National Taiwan Ocean University.
-
-* 🔭 **Interests:** C++ and Python
-* 🌱 **Currently Learning:** Better software design, algorithmic thinking, and the art of making programs fail less often
-* 👀 **Looking to Collaborate On:** Beginner-friendly or educational projects
-* 📫 **How to Reach Me:** Email (listed in profile)
-* 🔒 Private Projects: 包含跨域競賽的 AI Agent 完整系統（隱藏核心邏輯，請見showcase專案）、ICCAD競賽題目(繞線與AI輔助設計)、以及開發中的 VS Code 客製化外掛等。
-
----
-
 ## 🛠️ Portfolio & Tech Stack
 
 這裡是我根據技術類別整理的專案，展示了我包含遊戲、AI應用、系統模擬等的開發過程：
 
-### 🎮 遊戲開發 (Game Development)
+### 🎮 遊戲開發 (Game Development) 
 涵蓋 **Python (Pygame)** 與 **Web (HTML/JS)** 的互動作品：
 * **[educational-games-hub點擊直接遊玩](https://gpsftuebsl.github.io/educational-games-hub/)** - 多個教育類小遊戲整合之平台。
-* **[UnderPy](https://github.com/gpsftuEbsl/UnderPy)** - 仿Undertale風格的遊戲(tkinter/pygame雙引擎)開發實作。
+* **[UnderPy](https://github.com/gpsftuEbsl/UnderPy)** - 仿Undertale戰鬥系統並結合文字遊戲遊戲(tkinter+pygame雙引擎)開發實作。
 * **[ball-game](https://github.com/gpsftuEbsl/ball-game)** - pygame基礎物理碰撞與動態模擬。
-* **網頁經典復刻系列**: [pac-man](https://github.com/gpsftuEbsl/pac-man), [snake-game](https://github.com/gpsftuEbsl/snake-game), [car-game](https://github.com/gpsftuEbsl/car-game)。
+* **網頁經典復刻系列**: [小精靈電腦版pac-man](https://gpsftuebsl.github.io/pac-man/), [貪吃蛇snake-game](https://gpsftuebsl.github.io/snake-game/), [2D平面賽車car-game](https://gpsftuebsl.github.io/car-game/)。
 
 ### 🤖 AI 應用與後端架構 (AI & Backend Architecture)
 專注於大語言模型整合、系統架構設計與效能優化：
@@ -37,6 +25,18 @@ Hi, I’m Terry — studying Computer Science and Engineering at National Taiwan
 * **[Virtual-mouse-auto-clicker](https://github.com/gpsftuEbsl/Virtual-mouse-auto-clicker-controlled-using-keyboard)** - windowsAPI與鍵盤驅動的虛擬滑鼠點擊之遊戲工具。
 * **[KeyToMouseClicker](https://github.com/gpsftuEbsl/KeyToMouseClicker)** - 電腦按鍵轉滑鼠點擊模擬器。
 * **[zerojudge-cpp-program-answers](https://github.com/gpsftuEbsl/zerojudge-cpp-program-answers)** - 部分 C++ 演算法解題歷程與筆記。
+
+---
+
+## ✨ About Me
+
+Hi, I’m Terry — studying Computer Science and Engineering at National Taiwan Ocean University.
+
+* 🔭 **Interests:** C++ and Python
+* 🌱 **Currently Learning:** Better software design, algorithmic thinking, and the art of making programs fail less often
+* 👀 **Looking to Collaborate On:** Beginner-friendly or educational projects
+* 📫 **How to Reach Me:** Email (listed in profile)
+* 🔒 Private Projects: 包含跨域競賽的 AI Agent 完整系統（隱藏核心邏輯，請見showcase專案）、ICCAD競賽題目(繞線與AI輔助設計)、以及開發中的 VS Code 客製化外掛等。
 
 ---
 
