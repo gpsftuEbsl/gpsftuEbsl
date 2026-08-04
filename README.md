@@ -12,6 +12,7 @@
 ### 🤖 AI 應用與後端架構 (AI & Backend Architecture)
 專注於大語言模型整合、系統架構設計與效能優化：
 * **[langgraph_workshop_showcase](https://github.com/gpsftuEbsl/langgraph_workshop_showcase)** - 基於 FastAPI 與 LangGraph 開發的兒童早療 AI 狀態機引擎，結合異步預生成快取機制實現低延遲對話互動。
+* **[Virtual-mouse-auto-clicker](https://github.com/gpsftuEbsl/Virtual-mouse-auto-clicker-controlled-using-keyboard)** - 訓練AI學習簡易遊戲之按鍵策略。
 
 ### 🐍 Python 桌面應用與工具 (GUI & Utilities)
 專注於 **Tkinter** 與實用功能開發：
