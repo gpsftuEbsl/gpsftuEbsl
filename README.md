@@ -51,7 +51,6 @@ Hi, I’m Terry — studying Computer Science and Engineering at National Taiwan
 
 * Interests lean toward the calmest hobbies possible (but music also).
 * Special skill: disappearing for long periods of time.
-* **APCS:** 觀念4 實作3
-* **CPE:** 2/7 (second attempt — next goal 3.)
+* I spend my free time chewing on algorithms.
 
 ---
