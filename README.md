@@ -40,7 +40,7 @@ Hi, I’m Terry — studying Computer Science and Engineering at National Taiwan
 * 🔒 Private Projects: 包含跨域競賽的 AI Agent 完整系統（隱藏核心邏輯，請見showcase專案）、ICCAD競賽題目(繞線與AI輔助設計)、以及開發中的 VS Code 客製化外掛等。
 
 ---
-
+<img src="github-metrics.svg" alt="Metrics">
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gpsftuEbsl&theme=radical" width="800px" />
 </div>
