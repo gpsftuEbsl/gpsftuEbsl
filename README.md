@@ -41,10 +41,6 @@ Hi, I’m Terry — studying Computer Science and Engineering at National Taiwan
 
 ---
 <img src="github-metrics.svg" alt="Metrics">
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=gpsftuEbsl&theme=radical" width="800px" />
-</div>
-
 ---
 
 ## ☕️ A Little More About Me
