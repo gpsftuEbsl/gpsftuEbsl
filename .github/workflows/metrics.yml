@@ -1,0 +1,31 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天 UTC 00:00（台灣時間 08:00）
+  workflow_dispatch:
+  push:
+    branches: ["main", "master"]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: gpsftuEbsl
+          filename: github-metrics.svg
+
+          config_timezone: Asia/Taipei
+          config_theme: tokyonight
+          config_padding: 0, 8 + 11%
+
+          base: header, activity, community, repositories, metadata
+
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
