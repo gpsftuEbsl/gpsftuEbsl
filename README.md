@@ -41,6 +41,7 @@ Hi, I’m Terry — studying Computer Science and Engineering at National Taiwan
 
 ---
 <img src="github-metrics.svg" alt="Metrics">
+
 ---
 
 ## ☕️ A Little More About Me
