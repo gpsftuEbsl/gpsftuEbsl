@@ -24,8 +24,8 @@
 ### 💻 C++ 系統工具與演算法 (System Tools & Competitive Programming)
 展示底層交互與邏輯思考：
 * **[Virtual-mouse-auto-clicker](https://github.com/gpsftuEbsl/Virtual-mouse-auto-clicker-controlled-using-keyboard)** - windowsAPI與鍵盤驅動的虛擬滑鼠點擊之遊戲工具（同上）。
-* **[KeyToMouseClicker](https://github.com/gpsftuEbsl/KeyToMouseClicker)** - 電腦按鍵轉滑鼠點擊模擬器。
-* **[zerojudge-cpp-program-answers](https://github.com/gpsftuEbsl/zerojudge-cpp-program-answers)** - 小部分C++演算法解題歷程與筆記。
+* **[KeyToMouseClicker](https://github.com/gpsftuEbsl/KeyToMouseClicker)** - 電腦按鍵轉滑鼠點擊模擬器（類似）。
+* **[zerojudge-cpp-program-answers](https://github.com/gpsftuEbsl/zerojudge-cpp-program-answers)** - 小部分C++演算法解題。
 
 ---
 
@@ -37,7 +37,7 @@ Hi, I’m Terry — studying Computer Science and Engineering at National Taiwan
 * 🌱 **Currently Learning:** Better software design, algorithmic thinking, and the art of making programs fail less often
 * 👀 **Looking to Collaborate On:** Beginner-friendly or educational projects
 * 📫 **How to Reach Me:** Email (listed in profile)
-* 🔒 Private Projects: 包含跨域競賽的 AI Agent 完整系統（隱藏核心邏輯，請見showcase專案）、ICCAD(AI輔助設計)等。
+* 🔒 Private Projects: 包含跨域競賽的 AI Agent完整系統（隱藏核心邏輯，請見showcase專案）、ICCADA等。
 
 ---
 <img src="github-metrics.svg" alt="Metrics">
