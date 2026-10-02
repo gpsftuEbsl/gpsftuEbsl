@@ -7,7 +7,7 @@
 * **[educational-games-hub點擊直接遊玩](https://gpsftuebsl.github.io/educational-games-hub/)** - 多個教育小遊戲整合平台。
 * **[UnderPy](https://github.com/gpsftuEbsl/UnderPy)** - 期末專案，仿Undertale戰鬥系統並結合文字遊戲(tkinter+pygame雙引擎)開發實作。
 * **[ball-game](https://github.com/gpsftuEbsl/ball-game)** - pygame基礎物理碰撞與動態模擬練習。
-* **網頁經典復刻系列**: [小精靈電腦版pac-man](https://gpsftuebsl.github.io/pac-man/), [貪吃蛇snake-game](https://gpsftuebsl.github.io/snake-game/), [2D平面賽車car-game](https://gpsftuebsl.github.io/car-game/)。
+* **網頁經典復刻系列（點擊直接遊玩）**: [小精靈電腦版pac-man](https://gpsftuebsl.github.io/pac-man/), [貪吃蛇snake-game](https://gpsftuebsl.github.io/snake-game/), [2D平面賽車car-game](https://gpsftuebsl.github.io/car-game/)。
 
 ### 🤖 AI 應用與後端架構 (AI & Backend Architecture)
 專注於大語言模型整合、系統架構設計與效能優化：
